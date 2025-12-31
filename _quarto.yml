@@ -66,8 +66,7 @@ format:
     css: styles.css
     toc: true
     toc-depth: 3
-    code-fold: show
-    code-tools: true
+    
     highlight-style: github
     smooth-scroll: true
     link-external-icon: true
